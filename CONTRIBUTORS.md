@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+- Place: Kanpur, Uttar Pradesh , India
+- Bio: Mern Stack  Machine Learning  and C++
+- Github: [9Vaibhav8](https://github.com/9Vaibhav8)
+
