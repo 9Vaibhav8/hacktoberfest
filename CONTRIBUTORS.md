@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [9Vaibha8](https://github.com/9Vaibhav8)
+#### Name: [9Vaibhav8](https://github.com/9Vaibhav8)
 - Place: Kanpur, Uttar Pradesh , India
 - Bio: Mern Stack  Machine Learning  and C++
 - Github: [9Vaibhav8](https://github.com/9Vaibhav8)
